@@ -4,7 +4,6 @@ import { Navbar } from './components/layout/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Topmovies } from './pages/Topmovies'
 import { Home } from './pages/Home'
-//import { SearchMovieProvider } from './context';
 import {  SearchMovies } from './pages/SearchMovies';
 
 function App() {
