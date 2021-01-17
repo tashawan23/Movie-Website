@@ -18,7 +18,7 @@ Movie website for film enthusiasts to browse latest movies and top movies of the
 * Shows movies with the movie poster and overview
 
 2. View information
-* More info button under each movie redirects users to The Movie database where they can access more information about the movie such as the movoie reviews and cast
+* More info button under each movie redirects users to The Movie database where they can access more information about the movie such as the movie reviews and cast
 
 3. Buy tickets
 * Buy tickets button under each movie redirects users to a third party website, Golden village where they can purchase movie tickets 
