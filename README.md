@@ -24,4 +24,4 @@ Movie website for film enthusiasts to browse latest movies and top movies of the
 * Buy tickets button under each movie redirects users to a third party website, Golden village where they can purchase movie tickets 
 
 
-
+Built using ReactJs, deployed on Netlify
