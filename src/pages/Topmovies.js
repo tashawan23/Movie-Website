@@ -12,7 +12,6 @@ export  const Topmovies = () => {
             url: url,
             success: (res) => {
                 setTopMovies(res.results.slice(0, 10))
-                console.log(res)
             },
             error: (xhr, status, err) => {
                 console.error("Failed to fetch data")
